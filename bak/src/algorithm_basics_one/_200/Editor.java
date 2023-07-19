@@ -1,4 +1,4 @@
-package algorithm_basics_one;
+package algorithm_basics_one._200;
 
 import java.io.*;
 import java.util.ArrayDeque;
