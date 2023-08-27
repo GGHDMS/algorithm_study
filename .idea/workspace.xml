@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b0bf8ae-c442-472b-a10c-ea6316fd6e57" name="Changes" comment="" />
+    <list default="true" id="4b0bf8ae-c442-472b-a10c-ea6316fd6e57" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2RJOA2eFtuEW54TTZ5WHCh1ecvE" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -23,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/hsm/Desktop/github/algorithm_study",
+    "last_opened_file_path": "C:/Users/tjran/Github/algorithm_study/bak",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
