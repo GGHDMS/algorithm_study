@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class bak16234 {
+public class baek16234 {
 
     static int[] x = new int[]{1, 0, -1, 0};
     static int[] y = new int[]{0, 1, 0, -1};
