@@ -1,4 +1,4 @@
-package leetcode.week5;
+package ai.leetcode.week5;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

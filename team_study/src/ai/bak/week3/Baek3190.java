@@ -1,11 +1,11 @@
-package bak.week3;
+package ai.bak.week3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class baek3190 {
+public class Baek3190 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;

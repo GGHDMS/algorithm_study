@@ -1,4 +1,4 @@
-package bak.week2;
+package ai.bak.week2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.StringTokenizer;
 
-public class baek16234 {
+public class Baek16234 {
 
     static int[] x = new int[]{1, 0, -1, 0};
     static int[] y = new int[]{0, 1, 0, -1};
