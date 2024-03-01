@@ -24,10 +24,8 @@ public class WoodThin {
             breeding();
             findMaxAndRemove();
             reduce();
-
         }
         System.out.println(answer);
-
     }
 
     static void growth() {
@@ -44,7 +42,6 @@ public class WoodThin {
                     }
                     map[i][j] += count;
                 }
-
             }
         }
     }
@@ -126,7 +123,6 @@ public class WoodThin {
                 }
             }
         }
-
         return point;
     }
 

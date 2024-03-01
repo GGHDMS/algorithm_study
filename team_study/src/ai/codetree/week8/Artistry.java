@@ -15,10 +15,8 @@ public class Artistry {
     static int[][] map;
     static List<List<int[]>> groups;
 
-
     public static void main(String[] args) throws IOException {
         init();
-
         for (int k = 0; k < 4; k++) {
             groups = new ArrayList<>();
             boolean[][] visited = new boolean[n][n];
@@ -29,9 +27,7 @@ public class Artistry {
                     }
                 }
             }
-
             calculate();
-
             moveCross();
             moveSquare();
         }
