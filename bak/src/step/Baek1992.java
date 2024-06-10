@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Back1992 {
+public class Baek1992 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
