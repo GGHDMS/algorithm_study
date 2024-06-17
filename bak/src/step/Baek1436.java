@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Bak1436 {
+public class Baek1436 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int n;
