@@ -55,7 +55,7 @@ public class Baek1080 {
 
             }
         }
-
+        
         System.out.println(answer);
     }
 
