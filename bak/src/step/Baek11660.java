@@ -46,14 +46,6 @@ public class Baek11660 {
             }
         }
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                System.out.print(sum[i][j] + " ");
-            }
-
-            System.out.println();
-        }
-
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < m; i++) {
             int x1 = arr[i][0];
